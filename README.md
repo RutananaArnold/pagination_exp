@@ -1,10 +1,10 @@
 # pagination_exp
 
-A new Flutter project.
+A Flutter project to demonstrate pagination.
 
 ## Getting Started
 
-This project is a starting point for a Flutter application.
+This project demonstrates how to paginate data from the internet in flutter using ScrollController.
 
 A few resources to get you started if this is your first Flutter project:
 
