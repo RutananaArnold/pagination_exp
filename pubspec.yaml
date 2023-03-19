@@ -37,6 +37,7 @@ dependencies:
   path_provider: 
   path: 
   video_player: ^2.6.0
+  story: ^1.0.0+1
 
 
   # The following adds the Cupertino Icons font to your application.

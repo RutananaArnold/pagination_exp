@@ -7,7 +7,7 @@ import 'package:pagination_exp/screens/stories.dart';
 class Index extends StatefulWidget {
   int currentIndex;
   CameraDescription camera;
-  Index({super.key, this.currentIndex = 2, required this.camera});
+  Index({super.key, this.currentIndex = 0, required this.camera});
 
   @override
   State<Index> createState() => _IndexState();
